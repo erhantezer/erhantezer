@@ -4,16 +4,6 @@
 <a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠 
-
-I prefer React & React Native for web/mobile front-end development.
-<br/>
-
-- Python, HTML5, CSS3, Git, GitHub, Linux
-
-- 💬 Ask  me about anything that you want to learn
-
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 ## 🚀 Skills
 <div align="center">
