@@ -1,13 +1,18 @@
 ## Hi there 👋  Erhan is here. (LOADING...)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
-<a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
-<!-- <p align="left">  </p> -->
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+ 📫 How to reach me **erhantezeer68@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/erhan-tezer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erhantezer" height="30" width="40" /></a>
+</p>
 
 ## 🚀 Skills
-<div align="center">
-
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img alt="TypeScript"  src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -24,16 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-
-## 📈 Statistics
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erhantezer&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=erhantezer&show_icons=true&theme=radical" alt="Statistics" width="50%">
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhantezer&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/erhantezer/count.svg" alt ="Loading">
